@@ -58,7 +58,7 @@ produ_cst_4snewapi-pc.chexiu.cn.projitem=pc.chexiu.cn
 produ_cst_4snewapi-pc.chexiu.cn.servname=produ_cst  
 produ_cst_4snewapi-pc.chexiu.cn.cmdexecu=pwd,chmod +x /data0/data0/htdocs/4snewapi/init  
 produ_cst_4snewapi-pc.chexiu.cn.syncdirs=/data0/data0/htdocs/4snewapi  
-produ_cst_4snewapi-pc.chexiu.cn.permissi=zhujintao
+produ_cst_4snewapi-pc.chexiu.cn.permissi=zhujintao  
 produ_cst_4snewapi-pc.chexiu.cn.abgraypt=  
 produ_cst_4snewapi-pc.chexiu.cn.administ=produ_cst_4snewapi_pre-pc.chexiu.cn  
 
